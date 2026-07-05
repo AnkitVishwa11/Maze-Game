@@ -133,7 +133,7 @@ function createConfetti() {
 function showVictoryMessage() {
   const message = document.createElement('div');
   message.className = 'victory-message';
-  message.textContent = '?? YOU WIN! ??';
+  message.textContent = ' YOU WIN! ';
   document.body.appendChild(message);
   
   // Remove message after 3 seconds
