@@ -1,9 +1,0 @@
-{
-  "redirects": [
-    {
-      "source": "/",
-      "destination": "/L19.2.html",
-      "type": 302
-    }
-  ]
-}
